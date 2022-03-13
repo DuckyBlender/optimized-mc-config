@@ -1,0 +1,10 @@
+The optimized server files using the guilde from https://github.com/YouHaveTrouble/minecraft-optimization with anti-xray engine mode 1 (faster)
+CHANGES:
+- nerf-spawner-mobs=false (why?)
+- villager.lobotomize=false (set true if laggy villagers)
+- merge-radius=1.0 (gameplay)
+- hopper-check=1.0 (setting it higher breaks water streams)
+- disable-move-event=false (for coreprotect)
+- treasure-maps-return-already-discovered: false (gameplay, pregen the world with this option)
+- disable-treasure-searching: false (gameplay, pregen the world with this)
+- nether-ceiling-void-damage-height=0 (gameplay)
