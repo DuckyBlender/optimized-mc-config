@@ -1,4 +1,4 @@
-The optimized server files using the guilde from https://github.com/YouHaveTrouble/minecraft-optimization with anti-xray engine mode 1 (faster)
+The optimized server files for 1.18.2 using the guilde from https://github.com/YouHaveTrouble/minecraft-optimization with anti-xray engine mode 1 (faster)
 CHANGES:
 - nerf-spawner-mobs=false (why?)
 - villager.lobotomize=false (set true if laggy villagers)
